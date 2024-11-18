@@ -1,0 +1,7 @@
+*{
+  font-family: "solway", serif;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
